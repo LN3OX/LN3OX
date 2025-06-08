@@ -1,7 +1,7 @@
 # Printf("Hello World!");👋 Me chamo Luiz Morais!! 
 ## Bem vindo ao meu perfil GitHub 💻
 
-<p>Sou estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnologia e movido por desafios. Tenho experiência com .NET, Python e bancos de dados SQL, além de conhecimentos em desenvolvimento Front-End.</p> 
+<p>Sou estudante de Desenvolvimento de Software Multiplataforma, apaixonado por tecnologia e movido por desafios. Tenho experiência com .NET, Python e SQLServer, além de conhecimentos em desenvolvimento Front-End.</p> 
 
 ## Ferramentas e Tecnologias
 
